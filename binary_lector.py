@@ -1,5 +1,5 @@
 #!usr/bin/env python
-#encodign: latin1
+#encoding: latin1
 
 byte = raw_input("Coloque el binario en forma de octeta (byte): ")
 valor = 128
